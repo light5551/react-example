@@ -1,5 +1,9 @@
 # React-exemple
 
+## В начале
+
+`git clone git@github.com:light5551/react-example.git`
+
 ## Локально
 
 ```
@@ -13,7 +17,7 @@ npm start
 
 ```
 sudo bash build.sh
-```
+``` 
 
  
 
