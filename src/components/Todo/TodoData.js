@@ -1,61 +1,61 @@
 const data = [
     {
-        body: 'купить в магазине овощи',
+        body: 'Купить в магазине овощи',
         type: 'work',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Купить в магазине фрукты',
         type: 'study',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Спортаз',
         type: 'personal',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Выучить теореме Рао-Крамера',
         type: 'study',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Написать статью',
         type: 'study',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Написать пример по React',
         type: 'work',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Прочитать Войну и Мир',
         type: 'personal',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'бильярд с друзьями',
         type: 'personal',
         show: true
     },
     {
-        body: 'fafa',
+        body: 'Проверяющая система для 1-ого курса',
         type: 'work',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Генератор джобов',
         type: 'work',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Прыгнуть с парашюта',
         type: 'personal',
         show: true
     },
     {
-        body: 'купить в магазине овощи',
+        body: 'Выучить XML',
         type: 'work',
         show: true
     }
